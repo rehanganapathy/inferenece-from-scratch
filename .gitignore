@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+bench/results/
+figures/out/
+.pytest_cache/
+*.egg-info/
+HARDWARE.md
+phase-1-plan.md
+.DS_Store
